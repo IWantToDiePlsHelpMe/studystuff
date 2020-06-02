@@ -1,0 +1,13 @@
+C:\Users\sevaw\source\repos\WebAnalyser\bin\Debug\netcoreapp3.1\WebAnalyser.exe
+C:\Users\sevaw\source\repos\WebAnalyser\bin\Debug\netcoreapp3.1\WebAnalyser.deps.json
+C:\Users\sevaw\source\repos\WebAnalyser\bin\Debug\netcoreapp3.1\WebAnalyser.runtimeconfig.json
+C:\Users\sevaw\source\repos\WebAnalyser\bin\Debug\netcoreapp3.1\WebAnalyser.runtimeconfig.dev.json
+C:\Users\sevaw\source\repos\WebAnalyser\bin\Debug\netcoreapp3.1\WebAnalyser.dll
+C:\Users\sevaw\source\repos\WebAnalyser\bin\Debug\netcoreapp3.1\WebAnalyser.pdb
+C:\Users\sevaw\source\repos\WebAnalyser\obj\Debug\netcoreapp3.1\WebAnalyser.csprojAssemblyReference.cache
+C:\Users\sevaw\source\repos\WebAnalyser\obj\Debug\netcoreapp3.1\WebAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\sevaw\source\repos\WebAnalyser\obj\Debug\netcoreapp3.1\WebAnalyser.AssemblyInfoInputs.cache
+C:\Users\sevaw\source\repos\WebAnalyser\obj\Debug\netcoreapp3.1\WebAnalyser.AssemblyInfo.cs
+C:\Users\sevaw\source\repos\WebAnalyser\obj\Debug\netcoreapp3.1\WebAnalyser.dll
+C:\Users\sevaw\source\repos\WebAnalyser\obj\Debug\netcoreapp3.1\WebAnalyser.pdb
+C:\Users\sevaw\source\repos\WebAnalyser\obj\Debug\netcoreapp3.1\WebAnalyser.genruntimeconfig.cache
